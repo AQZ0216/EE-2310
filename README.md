@@ -1,6 +1,11 @@
 # EE-2310
 Introduction to Programming
 
+## Class Information
+* Course Number : EE-2310
+* Instructor : Prof. Chih-Hao Huang
+* Year ： 2017 Fall
+
 ## Practice
 * Practice 1 - Temperature Conversion
 * Practice 2
