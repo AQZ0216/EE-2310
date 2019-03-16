@@ -3,6 +3,7 @@ Introduction to Programming
 
 ## Course Information
 * Course Number : EE-2310
+* Course Title : Introduction to Programming
 * Instructor : Prof. Chih-Hao Huang
 * Year : 2017 Fall
 
